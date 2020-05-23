@@ -1,0 +1,10 @@
+O pilar de herança foi usado na parte em que todos os Automoveis tem uma marca um modelo e um valor, fazendo com que todas as outras
+classes filhas tivessem esses atributos.
+
+Polimorfismo -  usado no metodo Som,pneu e buzina onde todas as classes tem o mesmo metodo porem ele faz algo diferente para cada
+classe
+
+Encapsulamento -  usado na classe mãe onde todos os atributos são protegidos assim mantendo a segurança e deixando apenas os metodos
+acessores e as classes filhas usarem esses atributos
+
+Abstração -  A classse Automovel é uma classe abstrata não podendo ser chamada no MAIN
